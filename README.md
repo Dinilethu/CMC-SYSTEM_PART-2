@@ -3,7 +3,7 @@ Overview
 The Contract Monthly Claim System (CMCS) is a web application designed for Independent Contractor (IC) lecturers to submit their monthly claims for hours worked. 
 It facilitates an efficient and transparent process for submitting, approving, and tracking claims.
 The system allows programme coordinators and academic managers to verify and approve claims, ensuring proper documentation and approval workflows.
-And to run and access the code you should open this particular file/folder "CMC SYSTEM_DINI".
+And to run and access the code you should open this particular file/folder "CMC SYSTEM".
 
 Features
 Lecturer Claim Submission: IC lecturers can submit claims for hours worked, including details like lecturer name, hours worked, and hourly rate.
