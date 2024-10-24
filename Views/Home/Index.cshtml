@@ -1,0 +1,38 @@
+﻿@{
+    ViewBag.Title = "Contract Monthly Claim System (CMCS)";
+}
+
+<style>
+    /* Apply background to the entire page */
+    body {
+        background-color: #1E1E1E;
+        background-image: linear-gradient(135deg, #333333 0%, #000000 100%);
+        background-attachment: fixed;
+        background-size: cover;
+        color: #ffffff; /* Keeping the font color white for readability */
+    }
+
+
+    .jumbotron {
+        background-color: transparent;
+    }
+
+    footer {
+        color: #fff; /* Footer text color */
+    }
+</style>
+
+<div class="jumbotron text-center">
+    <!-- Title of the System -->
+    <h1 style="font-size: 3.5em; font-weight: bold;">Contract Monthly Claim System (CMCS)</h1>
+
+    <!-- Get Started Button -->
+    <p>
+        <a href="/Account/Login" class="btn btn-primary btn-lg mt-4">Welcome</a>
+    </p>
+</div>
+
+<!-- Footer -->
+<footer class="text-center" style="position: absolute; bottom: 0; width: 100%; padding: 20px; background-color: transparent;">
+    <p>&copy; @DateTime.Now.Year - CMCS All Rights Reserved</p>
+</footer>
